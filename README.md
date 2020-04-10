@@ -8,4 +8,10 @@ span.sce:           Program to span column space of any 3x3 matrix.
 subspaces.sce:      Program to find the four fundamental subspaces of any 3x3 matrix.
 
 leastSq.sce:        Projection by least squares method.
+
+gram.sce:           Implement Gram-Schmidt orhtogonalization in R3. 
+
+eigens.sce:         Given any 3x3 matrix, find eigen values and eigen vectors .
+
+power.sce:          Program to find numerically largest value of eigen vector of 3x3 matrix using Rayleigh Power method.
 </pre>
