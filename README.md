@@ -9,7 +9,7 @@ subspaces.sce:      Program to find the four fundamental subspaces of any 3x3 ma
 
 leastSq.sce:        Projection by least squares method.
 
-gram.sce:           Implement Gram-Schmidt orhtogonalization in R3. 
+gram.sce:           Implement Gram-Schmidt orthogonalization in R3. 
 
 eigens.sce:         Given any 3x3 matrix, find eigen values and eigen vectors .
 
